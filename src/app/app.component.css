@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  border: 5px double goldenrod;
+  padding: 1rem;
+
+}
+
+.directive {
+  padding: 3rem;
+  margin: 0 1rem;
+}
+
+
+.directive:first-child {
+  border: 2px double crimson;
+}
